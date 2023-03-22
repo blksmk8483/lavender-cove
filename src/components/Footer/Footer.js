@@ -23,7 +23,7 @@ function Footer() {
                 <CallIcon />
                 </a>
             </div>
-            <p> &copy; 2023 Brandon Knight </p>
+            <a className="copyRight" target="_blank" rel="nonreferrer noreferrer" href="https://blksmk8483.github.io/React-Portfolio/" > &copy; 2023 Brandon Knight </a>
         </div>
     );
 }
